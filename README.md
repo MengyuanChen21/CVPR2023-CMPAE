@@ -26,12 +26,10 @@ Here we list our used requirements and dependencies.
  - Other: Pandas, Openpyxl, Wandb (optional)
 
 
-### Prepare data and checkpoints
+### Prepare data
 
 1. Please download the preprocessed audio and visual features from https://github.com/YapengTian/AVVP-ECCV20.
 2. Put the downloaded features into ```data/feats/```, and put the annotation files into ```data/annotations/```.
-3. Download the checkpoint file from [Google Drive](https://drive.google.com/file/d/1WD63s4G_w9C7V9XIYK2AF5yYyoe2CNXy/view?usp=sharing), and put it into ```save/pretrained/```.
-
 
 
 ### Train your own models
@@ -40,8 +38,8 @@ Run ```./train.sh```.
 
 ### Test the pre-trained model
 
-We provide the pre-trained CMPAE checkpoint (./save/default/cmpae_s0.pt) for evaluation. 
-Run ```./test.sh``` to test.
+Download the checkpoint file from [Google Drive](https://drive.google.com/file/d/1WD63s4G_w9C7V9XIYK2AF5yYyoe2CNXy/view?usp=sharing), and put it into ```save/pretrained/```.
+Then run ```./test.sh```.
 
 
 ## Citation
