@@ -14,7 +14,7 @@ Code for CVPR 2023 paper [Collecting Cross-Modal Presence-Absence Evidence for W
 
 ### Overview of CMPAE
 <img src="./graph/framework_corrected.png" style="width:80%; display: block; margin: auto">
-
+**Typo**: It should be noted that in the framework graph of the paper, we incorrectly labeled the name of "Absence/Presence Evidence Collecter". Here's the correct version. We are sorry for the typo.
 
 ## Get Started
 
