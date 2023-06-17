@@ -13,7 +13,7 @@ Code for CVPR 2023 paper [Collecting Cross-Modal Presence-Absence Evidence for W
 
 
 ### Overview of CMPAE
-<img src="./graph/framework_corrected.png" style="width:70%; display: block; margin: auto">
+<img src="./graph/framework_corrected.png" style="width:80%; display: block; margin: auto">
 
 
 ## Get Started
